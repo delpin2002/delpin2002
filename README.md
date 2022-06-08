@@ -15,7 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delpin2002&show_icons=true&theme=onedark&locale=en&layout=compact" alt="delpin2002" /></p>
 
-<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delpin2002&show_icons=true&theme=onedark&locale=en" alt="delpin2002" /></p>
 
